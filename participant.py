@@ -5,4 +5,6 @@ print('Deepak Kumaar: https://github.com/deepak1011dp')
 print("atul jain and deepak kumar have a github account")
 
 print('Abhishek Mohata: https://github.com/amohata007')
+print('Ashita Gaur: https://github.com/ashitagaur00')
+
 
