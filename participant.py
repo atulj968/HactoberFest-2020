@@ -10,3 +10,5 @@ print('Ritika Garg: https://github.com/Ritika0126')
 print('Harshit Gupta: https://github.com/harshit257')
 print('Riya Bankar: https://github.com/coderiya')
 print('Rudransh Tripathi: https://github.com/rudranshtripathi9')
+
+print("Harsh Joshi: https://github.com/HARSHJOSHI1417")
