@@ -12,3 +12,4 @@ print('Riya Bankar: https://github.com/coderiya')
 print('Rudransh Tripathi: https://github.com/rudranshtripathi9')
 
 print("Harsh Joshi: https://github.com/HARSHJOSHI1417")
+print("Vijay Halle: https://github.com/silicon1411")
