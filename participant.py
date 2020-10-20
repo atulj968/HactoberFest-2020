@@ -14,3 +14,6 @@ print("Harsh Joshi: https://github.com/HARSHJOSHI1417")
 print("Muhammad Sameer Farooq: https://github.com/msameerfarooq")
 print("Vijay Halle: https://github.com/silicon1411")
 print("Aman Singh: https://github.com/peaceDude404")
+print("Samkit Jain : https://github.com/samkitjain4916")
+print("Sudip ghimre: https://www.github.com/sudipghmire533")
+
