@@ -3,6 +3,9 @@
 # i/p: 10
 # o/p: Even number
 
+# the bitwise AND operator operates on one bit at a time
+# since all the even numbers have 0 as their last bit, operating the number and 1 with bitwise AND will give 0 as output
+# hence the else statement will execute giving output as "Even number"
 
 number=10
 if number&1:
