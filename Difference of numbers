@@ -4,10 +4,11 @@
  
 int main()
 {
-     
+    //definig the variables 
     int a,b;
     int diff;
- 
+	
+	//taking the input values for variables a and b
     printf("Enter first number: ");
     scanf("%d",&a);
     printf("Enter second number: ");
@@ -18,7 +19,8 @@ int main()
         diff=a-b;
     else
         diff=b-a;
- 
+		
+	//printing the output value of the variable diff
     printf("\nDifference between %d and %d is = %d",a,b,diff);
     return 0;
 }
